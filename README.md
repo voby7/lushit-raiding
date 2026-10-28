@@ -1,5 +1,3 @@
-# some dogshit raid bot by the owners of fucking niko
-please do not add niko.sryze.cc its geniunely a shitty bot
-
-# Leaked by Voby7
-# https://borebot.vercel.app
+# some dogshit vibecoded raid bot made by thy nyxen, who is the owner of niko
+i'm not going to provide instructions on how to set this shit up but if you have a python iq of over 10+ you should know
+### leaked by voby7
